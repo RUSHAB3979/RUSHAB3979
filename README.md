@@ -79,5 +79,5 @@
   <h3>Contribution Snake & 3D Graph</h3>
   <img src="https://github.com/RUSHAB3979/RUSHAB3979/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
   <br/>
-  <img src="https://github-profile-d-contrib.vercel.app/api?username=RUSHAB3979&theme=tokyonight" alt="3D Contribution Graph">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=RUSHAB3979&theme=tokyonight" alt="3D Contribution Graph">
 </div>

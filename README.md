@@ -17,7 +17,7 @@
 - 🌱 I’m currently diving deep into **DevOps, Machine Learning, and Embedded System Design**.
 - 👯 I’m looking to collaborate on innovative projects related to **AI/ML and Hardware Solutions**.
 - 💬 Ask me about **Python, C++, Java, and Machine Learning concepts**.
-- 📫 How to reach me: **patilrushab3979@gmail.com** (You can change this)
+- 📫 How to reach me: **rushabpatil2005@gmail.com**
 - 😄 Fun fact: When I'm not coding, I love to work out at the gym and play chess... *Checkmate!* 😉
 
 ---

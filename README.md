@@ -1,88 +1,133 @@
-<h3 align="center">A Hardcore Backend Developer & AI/ML Enthusiast from Pune, India 🇮🇳</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Rushab%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Pune,%20India&descAlignY=58&descSize=18" width="100%" alt="Rushab Patil" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-username" height="30" width="40" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=26D0CE&center=true&vCenter=true&width=620&lines=Building+a+P2P+marketplace+for+idle+GPUs;FastAPI+%C2%B7+Postgres+%C2%B7+Windows+desktop+agents;I+design+for+the+failure+that+doesn't+throw" alt="What I do" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Paste your real URLs into the two lines below and uncomment them.
+       They are held back on purpose: a badge pointing at a placeholder is a
+       live 404 on the front page of your profile.
+  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOU@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  -->
+  <a href="https://github.com/RUSHAB3979?tab=repositories"><img src="https://img.shields.io/badge/My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me:
+## 🛰️ What I'm building right now
 
-- 🔭 I'm a backend developer passionate about building **robust, scalable, and effective solutions** to complex problems.
-- 🧠 My core expertise lies in **Python** (Django, FastAPI, Flask) and **Java** (Spring Boot), designing powerful APIs and system architectures.
-- 🤖 I have a strong interest in AI/ML, and I actively work with **TensorFlow**, **PyTorch**, and integrating **Large Language Models (LLMs)** via APIs.
-- ⚡ I also enjoy bridging the gap between software and hardware, tinkering with **Arduino** and **Raspberry Pi** for IoT solutions.
-- 🚀 Skilled in workflow automation using tools like **n8n** to connect disparate systems.
-- 😄 Fun fact: When I'm not coding, I love to work out at the gym and play chess... *Checkmate!* 😉
+> **A peer-to-peer marketplace for idle consumer GPUs.**
+> Rent out the card in your gaming PC while you sleep. Rent someone else's when you need one.
 
----
+A FastAPI control plane, a Windows tray application that supervises a local
+inference runtime, Postgres, and a five-person team shipping through CI with
+secret scanning, vulnerability gates and SBOM generation.
 
-### 🛠️ My Tech Stack:
+<table>
+<tr><td width="50%" valign="top">
 
-#### CS Fundamentals
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-58A6FF?style=for-the-badge" alt="Data Structures & Algorithms">
-</p>
+**Control plane**
+`FastAPI` · `Pydantic v2` · `Postgres`
 
-#### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+Node registry, heartbeat contract, TTL liveness, live fleet API.
 
-#### Backend Development
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Discord_Bot_Dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bots">
-</p>
+</td><td width="50%" valign="top">
 
-#### AI & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/LLM_APIs-4479A1?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs">
-</p>
+**Provider agent**
+`Python` · `WebView2` · `Ollama`
 
-#### Cloud, DevOps & Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2">
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+System tray app, supervised inference server, real hardware telemetry, outbound-only.
 
-#### Hardware & Automation
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-</p>
+</td></tr>
+</table>
 
 ---
 
-### 📊 My GitHub Stats & Visualizations:
+## 🧠 Four decisions I had to defend in writing
+
+<table>
+<tr><td>
+
+**Liveness is derived, never stored.**
+An `is_online` column plus a background sweeper means that the day the sweeper dies, every row reads *online* forever — and nothing raises. A `last_heartbeat_at` timestamp compared at read time cannot fail that way.
+
+</td></tr>
+<tr><td>
+
+**Register upserts. Heartbeat returns 404.**
+So a restored database backup heals itself: a node that gets a 404 re-registers with its full hardware profile, instead of the table quietly refilling with rows whose hardware fields are permanently null.
+
+</td></tr>
+<tr><td>
+
+**A benchmark overstated capacity by 4.3×.**
+It summed per-request throughput and excluded queue time — describing a parallel server that did not exist. Pricing built on that number inherits the error. Capacity is now measured as total tokens ÷ wall-clock time, under real concurrency.
+
+</td></tr>
+<tr><td>
+
+**The agent's dependency list is a security boundary.**
+It installs on a stranger's gaming PC. Every line in it is software shipped onto hardware I don't control. No database driver, ever — HTTP to the control plane and nothing else.
+
+</td></tr>
+</table>
+
+<p align="center"><i>The pattern in all four: the dangerous bug isn't the one that crashes.<br/>It's the one that keeps reporting success.</i></p>
+
+---
+
+## 🔧 Tech
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RUSHAB3979&show_icons=true&locale=en&theme=tokyonight" alt="RUSHAB3979 GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RUSHAB3979&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RUSHAB3979&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts&theme=dark" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,spring,nodejs,react,tailwind&theme=dark" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,aws,git,githubactions&theme=dark" alt="Infra" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,linux,arduino,raspberrypi&theme=dark" alt="ML and hardware" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RUSHAB3979&theme=tokyonight&column=7" alt="GitHub Trophies" />
+  <sub>Depth is in <b>Python</b> and <b>FastAPI</b>. The rest is working familiarity — I'd rather say so than let a wall of logos imply otherwise.</sub>
+</p>
+
+---
+
+## 📦 Selected work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Decentralised GPU Marketplace** <sub>private</sub> | Control plane + Windows provider agent for renting idle consumer GPUs | `FastAPI` `Postgres` `React` |
+| [**Smart India Hackathon**](https://github.com/RUSHAB3979/Smart-India-Hackathon) | SIH submission | `Python` |
+| [**Secure Attendance**](https://github.com/RUSHAB3979/Secure-Attendance) | Attendance system built so proxy sign-ins *fail*, rather than go unnoticed | `Python` |
+| [**Stock Market Prediction**](https://github.com/RUSHAB3979/Stock-Market-Prediction-Model) | Time-series modelling on market data | `Python` |
+| [**AutoStream Logger**](https://github.com/RUSHAB3979/AutoStream-Logger) | Discord bot verifying streamer activity into Sheets, DM-only by design | `Python` |
+| [**Discord Moderation Bot**](https://github.com/RUSHAB3979/Discord-Moderation-Bot) | Server moderation and automation | `Python` |
+| [**NeetCode Submissions**](https://github.com/RUSHAB3979/neetcode-submissions-5qiqhw3o) | DSA practice, tracked in the open | `C++` |
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RUSHAB3979&theme=tokyonight&hide_border=true&background=0D1117&ring=26D0CE&fire=26D0CE&currStreakLabel=26D0CE" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUSHAB3979&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=26D0CE&line=26D0CE&point=ffffff&area=true" alt="Contribution activity" width="100%" />
 </p>
 
 <div align="center">
-  <h3>Contribution Snake</h3>
-  <img src="https://github.com/RUSHAB3979/RUSHAB3979/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/RUSHAB3979/RUSHAB3979/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </div>
+
+---
+
+<p align="center">
+  <b>Open to backend and distributed-systems roles.</b><br/>
+  <sub>Chess, the gym, and systems that fail loudly rather than quietly.</sub>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" width="100%" alt="" />
